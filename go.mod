@@ -11,7 +11,7 @@ require (
 	github.com/go-openapi/runtime v0.26.0
 	github.com/go-openapi/strfmt v0.21.7
 	github.com/go-openapi/swag v0.22.4
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 	github.com/in-toto/in-toto-golang v0.9.0
 	github.com/jonboulle/clockwork v0.4.0
 	github.com/mattn/go-tty v0.0.5
@@ -20,7 +20,7 @@ require (
 	github.com/sigstore/cosign/v2 v2.2.0
 	github.com/sigstore/fulcio v1.4.0
 	github.com/sigstore/rekor v1.3.0
-	github.com/sigstore/sigstore v1.7.2
+	github.com/sigstore/sigstore v1.7.4
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/pflag v1.0.5
 	golang.org/x/crypto v0.14.0
@@ -223,7 +223,7 @@ require (
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20220617031537-928513b29760 // indirect
 	golang.org/x/exp v0.0.0-20230321023759-10a507213a29 // indirect
 	golang.org/x/mod v0.12.0 // indirect
-	golang.org/x/net v0.16.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
 	golang.org/x/sys v0.13.0 // indirect
 	golang.org/x/term v0.13.0 // indirect
