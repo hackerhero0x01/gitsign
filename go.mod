@@ -6,8 +6,8 @@ require (
 	github.com/coreos/go-oidc/v3 v3.12.0
 	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/github/smimesign v0.2.0
-	github.com/go-git/go-billy/v5 v5.6.0
-	github.com/go-git/go-git/v5 v5.13.0
+	github.com/go-git/go-billy/v5 v5.6.2
+	github.com/go-git/go-git/v5 v5.14.0
 	github.com/go-openapi/runtime v0.28.0
 	github.com/go-openapi/strfmt v0.23.0
 	github.com/go-openapi/swag v0.23.0
@@ -23,7 +23,7 @@ require (
 	github.com/sigstore/sigstore v1.8.0
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/pflag v1.0.6
-	golang.org/x/crypto v0.33.0
+	golang.org/x/crypto v0.35.0
 	golang.org/x/oauth2 v0.26.0
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
 )
@@ -49,8 +49,8 @@ require (
 	github.com/DataDog/go-libddwaf v1.4.1 // indirect
 	github.com/DataDog/go-tuf v0.3.0--fix-localmeta-fork // indirect
 	github.com/DataDog/sketches-go v1.2.1 // indirect
-	github.com/Microsoft/go-winio v0.6.1 // indirect
-	github.com/ProtonMail/go-crypto v1.1.3 // indirect
+	github.com/Microsoft/go-winio v0.6.2 // indirect
+	github.com/ProtonMail/go-crypto v1.1.5 // indirect
 	github.com/ThalesIgnite/crypto11 v1.2.5 // indirect
 	github.com/alibabacloud-go/alibabacloud-gateway-spi v0.0.4 // indirect
 	github.com/alibabacloud-go/cr-20160607 v1.0.1 // indirect
@@ -85,12 +85,12 @@ require (
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/chrismellard/docker-credential-acr-env v0.0.0-20221129204813-6a4d6ed5d396 // indirect
 	github.com/clbanning/mxj/v2 v2.5.7 // indirect
-	github.com/cloudflare/circl v1.3.7 // indirect
+	github.com/cloudflare/circl v1.6.0 // indirect
 	github.com/common-nighthawk/go-figure v0.0.0-20210622060536-734e95fb86be // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.14.3 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.6 // indirect
 	github.com/cyberphone/json-canonicalization v0.0.0-20220623050100-57a0ce2678a7 // indirect
-	github.com/cyphar/filepath-securejoin v0.2.5 // indirect
+	github.com/cyphar/filepath-securejoin v0.4.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0 // indirect
 	github.com/digitorus/pkcs7 v0.0.0-20230818184609-3a137a874352 // indirect
@@ -126,8 +126,8 @@ require (
 	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
-	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
-	github.com/golang/protobuf v1.5.3 // indirect
+	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 // indirect
+	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/certificate-transparency-go v1.1.6 // indirect
 	github.com/google/gnostic v0.6.9 // indirect
@@ -179,7 +179,7 @@ require (
 	github.com/pborman/uuid v1.2.1 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.8 // indirect
 	github.com/philhofer/fwd v1.1.2 // indirect
-	github.com/pjbgf/sha1cd v0.3.0 // indirect
+	github.com/pjbgf/sha1cd v0.3.2 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/puzpuzpuz/xsync/v2 v2.4.1 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
@@ -190,7 +190,7 @@ require (
 	github.com/shibumi/go-pathspec v1.3.0 // indirect
 	github.com/sigstore/timestamp-authority v1.1.2 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
-	github.com/skeema/knownhosts v1.3.0 // indirect
+	github.com/skeema/knownhosts v1.3.1 // indirect
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966 // indirect
 	github.com/spf13/afero v1.9.5 // indirect
 	github.com/spf13/cast v1.5.1 // indirect
@@ -222,18 +222,17 @@ require (
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20220617031537-928513b29760 // indirect
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56 // indirect
 	golang.org/x/mod v0.19.0 // indirect
-	golang.org/x/net v0.33.0 // indirect
+	golang.org/x/net v0.35.0 // indirect
 	golang.org/x/sync v0.11.0 // indirect
 	golang.org/x/sys v0.30.0 // indirect
 	golang.org/x/term v0.29.0 // indirect
 	golang.org/x/text v0.22.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
-	golang.org/x/tools v0.23.0 // indirect
 	google.golang.org/api v0.138.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230807174057-1744710a1577 // indirect
 	google.golang.org/grpc v1.57.0 // indirect
-	google.golang.org/protobuf v1.31.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/DataDog/dd-trace-go.v1 v1.53.0 // indirect
 	gopkg.in/go-jose/go-jose.v2 v2.6.1 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
