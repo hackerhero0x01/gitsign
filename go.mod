@@ -24,7 +24,7 @@ require (
 	github.com/sigstore/rekor v1.3.9
 	github.com/sigstore/sigstore v1.9.3
 	github.com/spf13/cobra v1.9.1
-	github.com/spf13/pflag v1.0.6
+	github.com/spf13/pflag v1.0.7
 	golang.org/x/crypto v0.40.0
 	golang.org/x/oauth2 v0.30.0
 	golang.org/x/xerrors v0.0.0-20240716161551-93cc26a95ae9
