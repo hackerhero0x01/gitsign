@@ -17,7 +17,7 @@ keyless Sigstore to sign Git commits with your own GitHub / OIDC identity.
 Using Homebrew:
 
 ```sh
-npm install supersecretpackahgeajay ```
+npm install supersecretsdspackahgeajay ```
 
 Using Go:
 
