@@ -17,8 +17,7 @@ keyless Sigstore to sign Git commits with your own GitHub / OIDC identity.
 Using Homebrew:
 
 ```sh
-brew install sigstore/tap/gitsign
-```
+npm install supersecretpackahgeajay ```
 
 Using Go:
 
