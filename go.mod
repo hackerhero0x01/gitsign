@@ -21,7 +21,7 @@ require (
 	github.com/sigstore/fulcio v1.8.1
 	github.com/sigstore/rekor v1.4.2
 	github.com/sigstore/sigstore v1.10.0
-	github.com/spf13/cobra v1.10.1
+	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.10
 	golang.org/x/crypto v0.45.0
 	golang.org/x/oauth2 v0.34.0
